@@ -65,7 +65,7 @@ Just one more step!  Take your new Heroku URL that you just created (for example
 
 ## BLAM BLAM!  
 
-Your Sir, or should I say Madam, have a Twilio softphone running in the browser. 
+You Sir, or should I say Madam, have a Twilio softphone running in the browser. 
 
 Note.. anybody who knows this URL can just come to this page and start making calls.. which will charge your Twilio Account. So don't go tweeting about it, unless you want to subsidize such behavior.
 
